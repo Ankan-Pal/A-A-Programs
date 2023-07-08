@@ -1,0 +1,112 @@
+*{
+    background-color: rgb(151, 107, 245);
+}
+.logo{
+    position: relative;
+    background-image: url("D:\My website\code\2\logo.png");
+    padding: 0;
+    left: 40px;
+    top: 20px;
+}
+.toolbox{
+    position: relative;
+    background-color: red;
+    height: 85px;
+    width: 1100px;
+    border-radius: 50px;
+    bottom: 100px;
+    left: 110px;
+}
+.name{
+    color: white;
+    position: relative;
+    left: 250px;
+    bottom: 15vh;
+    font-size: 30px;
+}
+.button{
+    position: relative;
+    top: 3vh;
+    border: none;
+    background: none;
+    color: white;
+    text-shadow: 5px;
+    font-size: 35px;
+    text-align: center;
+}
+#about{
+    left: 50px;
+}
+.bor1{
+    position: relative;
+    height: 50px;
+    width: 2px;
+    background-color: black;
+    bottom: 22px;
+    left: 180px;
+    opacity: 50%;
+}
+#downloads{
+    left: 100px;
+}
+#contact{
+    left: 150px;
+}
+#source_code{
+    left: 200px;
+}
+#Review{
+    left: 250px;
+}
+.bor2{
+    position: relative;
+    height: 50px;
+    width: 2px;
+    background-color: black;
+    bottom: 72px;
+    left: 425px;
+    opacity: 50%;
+}
+.bor3{
+    position: relative;
+    height: 50px;
+    width: 2px;
+    background-color: black;
+    bottom: 122px;
+    left: 620px;
+    opacity: 50%;
+}
+.bor4{
+    position: relative;
+    height: 50px;
+    width: 2px;
+    background-color: black;
+    bottom: 172px;
+    left: 880px;
+    opacity: 50%;
+}
+
+.si{
+    position: relative;
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    background-image: url();
+    left: 100px;
+    bottom: 10px;
+}
+
+.vi{
+    position: relative;
+    height: 200px;
+    left: 500px;
+    bottom:260px;
+}
+.sii{
+    position: relative;
+    left: 1000px;
+    bottom: 420px;
+    height: 200px;
+    width: 300px;
+    background-color: white;
+}
